@@ -1,0 +1,7 @@
+{
+  "IncludeBlockTypes": [
+    "Soil_Roots_Tainted*"
+  ],
+  "ExcludeBlockTypes": [],
+  "$Comment": "Including Plant group as a hack around for now"
+}

@@ -1,0 +1,5 @@
+{
+  "OverlapBehavior": "Overwrite",
+  "Duration": 45,
+  "StatusEffectIcon": "UI/StatusEffects/Damage/Tiny.png"
+}

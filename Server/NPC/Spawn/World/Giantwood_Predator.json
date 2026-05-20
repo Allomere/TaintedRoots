@@ -1,0 +1,26 @@
+{
+  "Environments": [
+    "Env_Giantwood"
+  ],
+  "NPCs": [
+    {
+      "Weight": 2,
+      "SpawnBlockSet": "Soil",
+      "Id": "Bear_Grizzly"
+    },
+    {
+      "Weight": 4,
+      "SpawnBlockSet": "Soil",
+      "Id": "Spider"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil",
+      "Id": "Snake_Marsh"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

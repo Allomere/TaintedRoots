@@ -1,0 +1,43 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Wood_Giantwood_Trunk_Mossy_Full.name"
+  },
+  "ItemLevel": 4,
+  "Parent": "Wood_Giantwood_Trunk",
+  "Icon": "Icons/ItemsGenerated/Wood_Giantwood_Trunk_Mossy_Full.png",
+  "BlockType": {
+    "Textures": [
+      {
+        "Down": "BlockTextures/Wood_Trunk_GiantWood_Mossy_Full_Top.png",
+        "Sides": "BlockTextures/Wood_Trunk_GiantWood_Mossy_Full.png",
+        "Up": "BlockTextures/Wood_Trunk_GiantWood_Mossy_Full_Top.png",
+        "Weight": 1
+      }
+    ],
+    "BlockParticleSetId": "Grass_Wood_Giantwood",
+    "TextureSideMask": null,
+    "TransitionToGroups": [
+      "Stone",
+      "Dirt",
+      "Dirt_Dark",
+      "Sand",
+      "Sand_White",
+      "Gravel",
+      "Wood",
+      "Cobble"
+    ],
+    "TransitionTexture": "BlockTextures/Transition_Plant_Moss_Tainted.png"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

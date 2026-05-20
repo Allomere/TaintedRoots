@@ -1,0 +1,94 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Crop_Mushroom_Funnel_Tainted.name"
+  },
+  "Categories": [
+    "Blocks.Plants"
+  ],
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "BlockType": {
+    "InteractionHint": "server.interactionHints.pick",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Foliage/Plants/Plant_Crop_Mushroom_Funnel.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Funnel_Mushroom_Texture.png",
+        "Weight": 1
+      }
+    ],
+    "Group": "Plant",
+    "HitboxType": "Plant_Full",
+    "Flags": {
+      "IsStackable": false
+    },
+    "RandomRotation": "YawStep1",
+    "Gathering": {
+      "Harvest": {
+        "DropList": "Plant_Crop_Mushroom_Funnel_Tainted_Harvest"
+      },
+      "Soft": {
+        "DropList": "Plant_Crop_Mushroom_Funnel_Tainted_Harvest",
+        "IsWeaponBreakable": false
+      }
+    },
+    "Support": {
+      "Down": [
+        {
+          "TagId": "Type=Soil"
+        },
+        {
+          "TagId": "Type=Plant"
+        },
+        {
+          "BlockTypeId": "Soil_Dirt_Crystal"
+        }
+      ]
+    },
+    "BlockParticleSetId": "Dust",
+    "ParticleColor": "#9b2eea",
+    "BlockSoundSetId": "Plant",
+    "Light": {
+      "Color": "#416",
+      "Radius": 1
+    },
+    "CustomModelScale": 1.2,
+    "Particles": [
+      {
+        "SystemId": "Tainted_Smoke"
+      }
+    ]
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Mushrooms"
+    }
+  ],
+  "PlayerAnimationsId": "Item",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      20.815,
+      25.315,
+      11.815
+    ],
+    "Translation": [
+      2.4,
+      -17.1
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Crop_Mushroom_Funnel_Tainted.png",
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Crop"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Foliage",
+  "DropOnDeath": true
+}

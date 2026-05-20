@@ -1,0 +1,48 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Vine_Wall_Tainted.name"
+  },
+  "BlockType": {
+    "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
+      "Soft": {
+        "DropList": "Plant_Moss_Block_Green",
+        "IsWeaponBreakable": true
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
+    "ParticleColor": "#75883c",
+    "BlockSoundSetId": "Plant",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Plant_Tainted_Roots_Wall_2.png",
+        "Weight": 20
+      },
+      {
+        "Texture": "Blocks/Foliage/Plants/Plant_Tainted_Roots_Wall.png",
+        "Weight": 5
+      }
+    ],
+    "BlockParticleSetId": "Grass",
+    "CustomModel": "Blocks/Foliage/Plants/Roots_Wall_Tainted.blockymodel"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Roots_Wall_Tainted.png",
+  "IconProperties": {
+    "Scale": 0.755,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      10.3,
+      -21.5
+    ]
+  },
+  "Parent": "Plant_Vine_Wall_Dry",
+  "Model": "Blocks/Foliage/Plants/Roots_Wall_Tainted.blockymodel"
+}

@@ -1,0 +1,2014 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -4,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 7
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 1,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 7
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -3,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 4
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 2,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 3,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 4
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 4
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 4
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Purple_Trunk"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -3,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 4,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 5,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Moss_Tainted_Glow",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -5,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -5,
+      "name": "Soil_Grass"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -4,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -4,
+      "name": "Soil_Grass"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -3,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -3,
+      "name": "Soil_Grass"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -2,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Grass"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -1,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Grass"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": 0,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half",
+      "rotation": 5
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": 1,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Grass"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Half"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": 2,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Grass"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Block_Tainted_Glow"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": 3,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 3,
+      "name": "Soil_Grass"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": 4,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 4,
+      "name": "Soil_Grass"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": 5,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 5,
+      "name": "Soil_Grass"
+    }
+  ]
+}

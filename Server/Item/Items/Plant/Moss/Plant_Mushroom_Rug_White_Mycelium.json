@@ -1,0 +1,57 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Mushroom_Rug_White_Mycelium.name"
+  },
+  "Parent": "Plant_Moss_Rug_Green",
+  "BlockType": {
+    "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
+      "Soft": {
+        "DropList": "Plant_Moss_Block_Green",
+        "IsWeaponBreakable": true
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
+    "ParticleColor": "#e8e0c0",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Moss_Rug_Textures/Moss_Rug_GS.png",
+        "Weight": 5
+      },
+      {
+        "Texture": "Blocks/Foliage/Plants/Moss_Rug_Textures/Moss_Rug_GS_2.png",
+        "Weight": 20
+      },
+      {
+        "Texture": "Blocks/Foliage/Plants/Moss_Rug_Textures/Moss_Rug_GS_3.png",
+        "Weight": 10
+      },
+      {
+        "Texture": "Blocks/Foliage/Plants/Moss_Rug_GS_4.png",
+        "Weight": 95
+      }
+    ],
+    "BlockSoundSetId": "Plant",
+    "Tint": [
+      "#e8e0c0"
+    ],
+    "BlockParticleSetId": "Dust"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Mushroom_Rug_White_Mycelium.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -0.5,
+      -3.5
+    ]
+  }
+}

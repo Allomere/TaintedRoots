@@ -1,0 +1,41 @@
+{
+  "Environments": [
+    "Env_Giantwood"
+  ],
+  "Despawn": {
+    "DayTimeRange": [
+      5,
+      19
+    ]
+  },
+  "MoonPhaseWeightModifiers": [
+    0.5,
+    1,
+    1.5,
+    1.5,
+    1
+  ],
+  "NPCs": [
+    {
+      "Weight": 20,
+      "SpawnBlockSet": "Soil",
+      "Id": "Crawler_Void",
+      "Flock": {
+        "Size": [
+          1,
+          3
+        ]
+      }
+    }
+  ],
+  "DayTimeRange": [
+    19,
+    5
+  ],
+  "LightRanges": {
+    "Light": [
+      0,
+      8
+    ]
+  }
+}

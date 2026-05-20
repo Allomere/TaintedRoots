@@ -1,0 +1,38 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Flower_Bushy_Green_Tainted.name"
+  },
+  "Parent": "Plant_Flower_Common_White",
+  "BlockType": {
+    "InteractionHint": "server.interactionHints.pick",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Foliage/Plants/Nettle.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Bush_Nettle_Tainted.png",
+        "Weight": 1
+      }
+    ],
+    "Gathering": {
+      "Soft": {
+        "DropList": "Plant_Bush"
+      },
+      "Harvest": {}
+    },
+    "BlockParticleSetId": "Flower",
+    "ParticleColor": "#31533d"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Flower_Bushy_Green_Tainted.png",
+  "IconProperties": {
+    "Scale": 0.52,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -19.7
+    ]
+  }
+}

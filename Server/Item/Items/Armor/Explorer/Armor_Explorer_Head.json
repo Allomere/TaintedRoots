@@ -1,0 +1,120 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Armor_Explorer_Head.name",
+    "Description": "server.items.Armor_Explorer_Head.description"
+  },
+  "Quality": "Rare",
+  "ItemLevel": 20,
+  "PlayerAnimationsId": "Block",
+  "ItemSoundSetId": "ISS_Armor_Heavy",
+  "Categories": [
+    "Items.Armors"
+  ],
+  "Icon": "Icons/ItemsGenerated/Armor_Explorer_Head.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -17
+    ]
+  },
+  "Particles": [
+    {
+      "SystemId": "Tainted_Smoke",
+      "TargetNodeName": "Mushroom3",
+      "PositionOffset": {
+        "Y": 0.2
+      },
+      "RotationOffset": {
+        "Pitch": 0,
+        "Yaw": 180,
+        "Roll": 0
+      },
+      "Scale": 0.75
+    }
+  ],
+  "Model": "Items/Armors/Explorer/Head.blockymodel",
+  "Texture": "Items/Armors/Explorer/Head_Texture.png",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Iron",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "Ingredient_Leather_Medium",
+        "Quantity": 6
+      },
+      {
+        "ItemId": "Plant_Crop_Mushroom_Block_Yellow_Spotted_Glow",
+        "Quantity": 3
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Armor_Bench",
+        "Type": "Crafting",
+        "Categories": [
+          "Armor_Head"
+        ]
+      }
+    ],
+    "KnowledgeRequired": false,
+    "TimeSeconds": 3
+  },
+  "Interactions": {
+    "Primary": {
+      "Interactions": [
+        {
+          "Type": "EquipItem"
+        }
+      ]
+    },
+    "Secondary": {
+      "Interactions": [
+        {
+          "Type": "EquipItem"
+        }
+      ]
+    }
+  },
+  "Armor": {
+    "ArmorSlot": "Head",
+    "BaseDamageResistance": 0,
+    "CosmeticsToHide": [
+      "EarAccessory",
+      "Ear",
+      "Haircut",
+      "HeadAccessory"
+    ],
+    "StatModifiers": {
+      "Health": [
+        {
+          "Amount": 9,
+          "CalculationType": "Additive"
+        }
+      ]
+    }
+  },
+  "MaxDurability": 100,
+  "DurabilityLossOnHit": 0.5,
+  "Tags": {
+    "Type": [
+      "Armor"
+    ],
+    "Family": [
+      "Iron"
+    ]
+  },
+  "Scale": 0.75,
+  "Light": {
+    "Color": "#ea4",
+    "Radius": 9
+  },
+  "DurabilityLossOnDeath": false
+}

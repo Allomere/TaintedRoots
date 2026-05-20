@@ -1,0 +1,141 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Armor_Explorer_Legs.name",
+    "Description": "server.items.Armor_Explorer_Legs.description"
+  },
+  "Quality": "Rare",
+  "ItemLevel": 20,
+  "PlayerAnimationsId": "Block",
+  "ItemSoundSetId": "ISS_Armor_Heavy",
+  "Categories": [
+    "Items.Armors"
+  ],
+  "Icon": "Icons/ItemsGenerated/Armor_Explorer_Legs.png",
+  "Model": "Items/Armors/Explorer/Legs.blockymodel",
+  "Texture": "Items/Armors/Explorer/Legs_Texture.png",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Iron",
+        "Quantity": 4
+      },
+      {
+        "ItemId": "Ingredient_Leather_Medium",
+        "Quantity": 8
+      },
+      {
+        "Quantity": 4,
+        "ResourceTypeId": "Shelf_Mushrooms"
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Armor_Bench",
+        "Type": "Crafting",
+        "Categories": [
+          "Armor_Legs"
+        ]
+      }
+    ],
+    "KnowledgeRequired": false,
+    "TimeSeconds": 3
+  },
+  "Interactions": {
+    "Primary": {
+      "Interactions": [
+        {
+          "Type": "EquipItem"
+        }
+      ]
+    },
+    "Secondary": {
+      "Interactions": [
+        {
+          "Type": "EquipItem"
+        }
+      ]
+    },
+    "Equipped": {
+      "Interactions": [
+        {
+          "Type": "ConditionExtension",
+          "InFluid": true,
+          "RunTime": 0,
+          "Next": {
+            "Type": "Simple",
+            "RunTime": 0.1,
+            "Effects": {
+              "Particles": [
+                {
+                  "SystemId": "Block_Land_Hard_Dust",
+                  "Scale": 5,
+                  "Color": "#ffffff"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "Cooldown": {
+        "Cooldown": 0
+      }
+    }
+  },
+  "Armor": {
+    "ArmorSlot": "Legs",
+    "BaseDamageResistance": 0,
+    "CosmeticsToHide": [
+      "Pants",
+      "Shoes"
+    ],
+    "DamageResistance": {
+      "Fall": [
+        {
+          "Amount": 0.95,
+          "CalculationType": "Multiplicative"
+        }
+      ]
+    },
+    "StatModifiers": {
+      "Health": [
+        {
+          "Amount": 13,
+          "CalculationType": "Additive"
+        }
+      ]
+    }
+  },
+  "ArmorExtension": {
+    "MovementModifiers": {
+      "JumpForce": [
+        {
+          "Amount": 0.4,
+          "CalculationType": "Multiplicative"
+        }
+      ]
+    }
+  },
+  "MaxDurability": 100,
+  "DurabilityLossOnHit": 0.5,
+  "Tags": {
+    "Type": [
+      "Armor"
+    ],
+    "Family": [
+      "Iron"
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -23
+    ]
+  },
+  "DurabilityLossOnDeath": false
+}

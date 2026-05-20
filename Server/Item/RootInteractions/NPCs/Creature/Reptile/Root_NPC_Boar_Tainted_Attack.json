@@ -1,0 +1,17 @@
+{
+  "Interactions": [
+    {
+      "Type": "Chaining",
+      "ChainId": "Attacks",
+      "ChainingAllowance": 5,
+      "Next": [
+        "Boar_Tainted_Headbutt"
+      ]
+    }
+  ],
+  "Tags": {
+    "Attack": [
+      "Melee"
+    ]
+  }
+}

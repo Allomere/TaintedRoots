@@ -1,0 +1,114 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Crop_Mushroom_Rare_Green.name",
+    "Description": "server.items.Plant_Crop_Mushroom_Rare_Green.description"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Crop_Mushroom_Rare_Green.png",
+  "Categories": [
+    "Blocks.Plants"
+  ],
+  "Parent": "Template_Food",
+  "Consumable": true,
+  "BlockType": {
+    "InteractionHint": "server.interactionHints.pick",
+    "DrawType": "Model",
+    "CustomModelScale": 1.0,
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Foliage/Plants/Mushroom_Fox.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Mushroom_Rare_Green.png",
+        "Weight": 1
+      }
+    ],
+    "Group": "Plant",
+    "HitboxType": "Mushroom_Large",
+    "Flags": {
+      "IsStackable": false
+    },
+    "RandomRotation": "YawStep1",
+    "Gathering": {
+      "Harvest": {
+        "DropList": "Plant_Crop_Mushroom_Rare_Green_Harvest"
+      },
+      "Soft": {
+        "DropList": "Plant_Crop_Mushroom_Rare_Green_Harvest"
+      }
+    },
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "BlockParticleSetId": "Dust",
+    "ParticleColor": "#166e39",
+    "BlockSoundSetId": "Mushroom",
+    "Light": {
+      "Color": "#594"
+    }
+  },
+  "InteractionVars": {
+    "Consume_Charge": {
+      "Interactions": [
+        {
+          "Parent": "Consume_Charge_Food_T1_Inner",
+          "Effects": {
+            "Particles": [
+              {
+                "SystemId": "Food_Eat",
+                "Color": "#166e39",
+                "Scale": 1,
+                "TargetNodeName": "Mouth",
+                "TargetEntityPart": "Entity"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Effect": {
+      "Interactions": [
+        {
+          "Type": "ApplyEffect",
+          "EffectId": "Food_Instant_Heal_T1"
+        },
+        {
+          "Type": "ApplyEffect",
+          "EffectId": "Shroom_Speed_Buff_T1"
+        }
+      ]
+    }
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Mushrooms"
+    }
+  ],
+  "MaxStack": 25,
+  "Scale": 1.0,
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Crop"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Foliage",
+  "DropOnDeath": true,
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      0,
+      92,
+      20
+    ],
+    "Translation": [
+      -1,
+      -13
+    ]
+  },
+  "Quality": "Rare"
+}

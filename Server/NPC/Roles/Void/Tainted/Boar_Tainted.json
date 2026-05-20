@@ -1,0 +1,57 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Predator",
+  "Modify": {
+    "Appearance": "Boar_Tainted",
+    "WanderRadius": 6,
+    "ViewRange": 15,
+    "FleeRange": 15,
+    "HearingRange": 8,
+    "DropList": "Drop_Boar_Tainted",
+    "MaxSpeed": 10,
+    "Attack": "Root_NPC_Boar_Tainted_Attack",
+    "AttackDistance": 2,
+    "TargetRange": 4,
+    "CombatBehaviorDistance": 4,
+    "CombatRelativeTurnSpeed": 0.5,
+    "AlwaysSleepAtNight": false,
+    "MaxHealth": 65,
+    "IsMemory": true,
+    "CombatBackOffAfterAttack": false,
+    "AttackPauseRange": [
+      3.0,
+      4.0
+    ],
+    "MemoriesCategory": "Reptile",
+    "_InteractionVars": {
+      "Headbutt_Damage": {
+        "Interactions": [
+          {
+            "Parent": "Toad_Rhino_Headbutt_Damage",
+            "DamageCalculator": {
+              "Type": "Absolute",
+              "BaseDamage": {
+                "Physical": 32
+              },
+              "RandomPercentageModifier": 0.1
+            },
+            "DamageEffects": {
+              "Knockback": {
+                "Force": -10
+              }
+            }
+          }
+        ]
+      }
+    },
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.Toad_Rhino.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

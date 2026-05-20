@@ -1,0 +1,14 @@
+{
+  "IncludeBlockTypes": [
+    "Soil_*",
+    "Plant_*"
+  ],
+  "ExcludeBlockTypes": [
+    "Plant_Leaves*",
+    "*Water*",
+    "*Mud",
+    "*Roots_Tainted*",
+    "*Frozen"
+  ],
+  "$Comment": "Including Plant group as a hack around for now"
+}

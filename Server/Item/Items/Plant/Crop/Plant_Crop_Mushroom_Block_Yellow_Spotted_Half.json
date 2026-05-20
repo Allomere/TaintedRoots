@@ -1,0 +1,109 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Crop_Mushroom_Yellow_Spotted_Half.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/ItemsGenerated/Plant_Crop_Mushroom_Block_Yellow_Spotted_Half.png",
+  "Categories": [
+    "Tool.TechnicalBlocks"
+  ],
+  "SubCategory": "BlockSets",
+  "Interactions": {
+    "Secondary": {
+      "Interactions": [
+        {
+          "Parent": "Half_Block",
+          "Matchers": [
+            {
+              "Block": {
+                "Id": "Build_Black_Half",
+                "State": "default"
+              },
+              "Face": "Up",
+              "StaticFace": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PlayerAnimationsId": "Block",
+  "Set": "Build",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Group": "Plants",
+    "HitboxType": "Block_Half",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods",
+        "ItemId": "Plant_Crop_Mushroom_Block_Yellow_Spotted"
+      }
+    },
+    "BlockSoundSetId": "Mushroom",
+    "CustomModel": "Blocks/Structures/Base_Shapes/HalfBlock.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/Plant_Crop_Mushroom_Block_Yellow_Spotted.png",
+        "Weight": 1
+      }
+    ],
+    "VariantRotation": "DoublePipe",
+    "State": {
+      "Definitions": {
+        "Block": {
+          "Material": "Solid",
+          "DrawType": "Cube",
+          "HitboxType": "Full",
+          "Textures": [
+            {
+              "All": "BlockTextures/Dev_Black_Top.png"
+            }
+          ],
+          "Gathering": {
+            "Breaking": {
+              "GatherType": "SoftBlocks",
+              "DropList": {
+                "Container": {
+                  "Type": "Single",
+                  "Item": {
+                    "ItemId": "Build_Black_Half",
+                    "QuantityMax": 2,
+                    "QuantityMin": 2
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "BlockParticleSetId": "Dust",
+    "ParticleColor": "#eb9314",
+    "Opacity": "Transparent"
+  },
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Crop"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "Parent": "Plant_Crop_Mushroom_Block_Yellow_Spotted"
+}

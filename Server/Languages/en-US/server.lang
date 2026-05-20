@@ -1,0 +1,85 @@
+
+
+
+# === Armors ===
+items.Armor_Explorer_Head.name = Explorer Helm
+items.Armor_Explorer_Head.description = Made from the glowing bits of a spotted mushroom, lighting capabilities included
+items.Armor_Explorer_Legs.name = Explorer Greaves
+items.Armor_Explorer_Legs.description = Made from rubbery shelf mushrooms, reduced ouchies while climbing
+
+# === Rocks ===
+
+items.Rock_Slate_Mossy.name = Mossy Slate
+items.Rock_Slate_Overgrown.name = Overgrown Slate
+
+# === Woods ===
+
+items.Wood_Giantwood_Roots.name = Giantwood Roots
+items.Wood_Giantwood_Trunk_Full.name = Giantwood Tree Trunk
+items.Wood_Giantwood_Trunk_Mossy_Full.name = Mossy Giantwood Log
+items.Wood_Giantwood_Trunk_Mossy.name = Slightly Mossy Giantwood Log
+items.Wood_Giantwood_Trunk.name = Giantwood Log
+
+# === Soils ===
+
+items.Soil_Dirt_Tainted.name = Tainted Dirt
+items.Soil_Rooted_Dirt.name = Rooted Tainted Dirt
+items.Soil_Grass_Tainted.name = Tainted Grass
+items.Soil_Leaves_Tainted.name = Leafy Tainted Soil
+items.Soil_Roots_Tainted.name = Tainted Roots
+
+# === Mushrooms ===
+
+items.Plant_Crop_Mushroom_Block_Tainted_Glow.name = Glowing Tainted Mushroom Block
+items.Plant_Crop_Mushroom_Block_Tainted.name = Tainted Mushroom Block
+items.Plant_Crop_Mushroom_Tainted_Stairs.name = Tainted Mushroom - Stairs
+items.Plant_Crop_Mushroom_Block_Tainted_Half.name = Tainted Mushroom - Half Slab
+items.Plant_Crop_Mushroom_Block_Yellow_Spotted_Glow.name = Glowing Spotted Mushroom Block
+items.Plant_Crop_Mushroom_Block_Yellow_Spotted.name = Spotted Mushroom Block
+items.Plant_Crop_Mushroom_Yellow_Spotted_Stairs.name = Spotted Mushroom - Stairs
+items.Plant_Crop_Mushroom_Yellow_Spotted_Half.name = Spotted Mushroom - Half Slab
+items.Plant_Crop_Mushroom_Bouncy_Red.name = Bouncy Mushroom
+items.Plant_Crop_Mushroom_Bracket_Yellow.name = Yellow Bracket Mushroom Block
+items.Plant_Crop_Mushroom_Bracket_Stairs.name = Bracket Mushroom - Stairs
+items.Plant_Crop_Mushroom_Funnel_Tainted.name = Tainted Funnel
+items.Plant_Mushroom_Block_White_Mycelium.name = White Mycelium Block
+items.Plant_Mushroom_Rug_White_Mycelium.name = White Mycelium Rug
+items.Plant_Mushroom_Short_White_Mycelium.name = Short White Mycelium
+items.Plant_Mushroom_Cave_White_Mycelium.name = Hanging White Mycelium
+
+items.Plant_Crop_Mushroom_Cap_Red.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Mushroom_Common_Brown.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Mushroom_Rare_Blue.name = Blue Rare Mushroom
+items.Plant_Crop_Mushroom_Rare_Blue.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Resistance I</color>\n\nDuration: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Mushroom_Rare_Green.name = Green Rare Mushroom
+items.Plant_Crop_Mushroom_Rare_Green.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Agility I</color>\n\nDuration: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Mushroom_Rare_Red.name = Red Rare Mushroom
+items.Plant_Crop_Mushroom_Rare_Red.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Strength I</color>\n\nDuration: <color is="#ffffff">0:45</color>
+
+# === Plants ===
+
+items.Plant_Flower_Bushy_Green_Tainted.name = Tainted Nettle
+items.Plant_Bush_Tainted.name = Tainted Bush
+items.Plant_Bush_Arid_Tainted.name = Tainted Arid Bush
+items.Plant_Bush_Arid_Sharp_Tainted.name = Bushy Tainted Grass  
+items.Plant_Leaves_Giantwood.name = Giantwood Leaves
+items.Plant_Moss_Tainted_Glow.name = Glowing Tainted Moss
+items.Plant_Roots_Rug_Tainted.name = Tainted Root Rug
+items.Plant_Vine_Thick_Vertical_Green.name = Green Thick Vine
+items.Plant_Vine_Thick_Roots_Green.name = Green Thick Vine Roots
+items.Plant_Vine_Rug_Green.name = Green Vine Rug
+items.Plant_Vine_Wall_Green.name = Green Vine
+items.Plant_Vine_Wall_Tainted.name = Tainted Vine
+
+# === Block Sets ===
+resourceType.Shelf_Mushrooms.name = Any Shelf Mushroom
+
+# === Portals ===
+portals.Taintedroots= Taintedroots Forest
+portals.Taintedroots.description= A colossal forest being corrupted from its roots.
+items.PortalKey_Taintedroots.name= Fragment: Orbis - Taintedroots Forest
+portals.Taintedroots.tip1 = The deeper you go the uglier it gets, stay safe.
+items.PortalKey_Taintedroots.description= Colossal trees guards a forest, hiding its corruption, Void spores taints every living form it touches, turning them in to frenzyed monsters, fewer have encountered them, and even fewer have surived, use the enviroment to survive, stay off the ground, it isnt safe.
+items.Hub_Portal_Taintedroots.name = Taintedroots Forest Portal
+
+

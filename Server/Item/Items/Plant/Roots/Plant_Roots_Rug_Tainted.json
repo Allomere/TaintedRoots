@@ -1,0 +1,36 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Roots_Rug_Tainted.name"
+  },
+  "Parent": "Plant_Moss_Rug_Green",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Plants/Plant_Roots_Rug_Tainted.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Plant_Roots_Rug_Tainted_Texture.png",
+        "Weight": 1
+      }
+    ],
+    "Gathering": {},
+    "BiomeTint": 0,
+    "Tint": [],
+    "ParticleColor": "#56297a",
+    "Light": {
+      "Color": "#314"
+    },
+    "RandomRotation": "YawStep90"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Roots_Rug_Tainted.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -2
+    ]
+  }
+}

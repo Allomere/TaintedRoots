@@ -1,0 +1,19 @@
+{
+  "DamageResistance": {
+    "Physical": [
+      {
+        "Amount": 0.85,
+        "CalculationType": "Multiplicative"
+      }
+    ],
+    "Projectile": [
+      {
+        "Amount": 0.85,
+        "CalculationType": "Multiplicative"
+      }
+    ]
+  },
+  "OverlapBehavior": "Overwrite",
+  "Duration": 45,
+  "StatusEffectIcon": "UI/StatusEffects/Resistance/Tiny.png"
+}

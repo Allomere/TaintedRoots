@@ -1,0 +1,39 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Mushroom_Wall_White_Mycelium.name"
+  },
+  "Parent": "Plant_Moss_Wall_Green",
+  "BlockType": {
+    "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
+      "Soft": {
+        "DropList": "Plant_Moss_Block_Green",
+        "IsWeaponBreakable": true
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
+    "ParticleColor": "#e8e0c0",
+    "BlockSoundSetId": "Plant",
+    "Tint": [
+      "#e8e0c0"
+    ],
+    "BlockParticleSetId": "Dust"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Mushroom_Wall_White_Mycelium.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      -5
+    ]
+  }
+}

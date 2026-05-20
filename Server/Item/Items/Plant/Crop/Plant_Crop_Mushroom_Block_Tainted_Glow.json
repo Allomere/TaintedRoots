@@ -1,0 +1,54 @@
+{
+  "Icon": "Icons/ItemsGenerated/Mushroom_Block_Tainted_Glow.png",
+  "Categories": [
+    "Blocks.Plants"
+  ],
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "CubeWithModel",
+    "CustomModel": "Blocks/Foliage/Plants/Mushroom_Block_Tainted_Glow.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/Plant_Crop_Mushroom_Block_Tainted_Glow.png",
+        "Weight": 1
+      }
+    ],
+    "Group": "Plant",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "BlockParticleSetId": "Dust",
+    "Textures": [
+      {
+        "Weight": 1,
+        "Down": "BlockTextures/Plant_Crop_Mushroom_Block_Tainted.png",
+        "Up": "BlockTextures/Plant_Crop_Mushroom_Block_Tainted.png",
+        "Sides": "BlockTextures/Plant_Crop_Mushroom_Block_Tainted_Glow_Mask.png"
+      }
+    ],
+    "ParticleColor": "#662eea",
+    "BlockSoundSetId": "Mushroom",
+    "Light": {
+      "Color": "#52a",
+      "Radius": 0
+    },
+    "Opacity": "Transparent"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Crop"
+    ]
+  },
+  "MaxStack": 100,
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Crop_Mushroom_Block_Tainted_Glow.name"
+  }
+}

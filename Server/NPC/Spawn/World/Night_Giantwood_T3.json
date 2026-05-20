@@ -1,0 +1,35 @@
+{
+  "Environments": [
+    "Env_Giantwood"
+  ],
+  "Despawn": {
+    "DayTimeRange": [
+      5,
+      19
+    ]
+  },
+  "MoonPhaseWeightModifiers": [
+    0.5,
+    0.5,
+    0.0,
+    0.5,
+    0.5
+  ],
+  "NPCs": [
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil",
+      "Id": "Bear_Grizzly_Tainted"
+    }
+  ],
+  "DayTimeRange": [
+    19,
+    5
+  ],
+  "LightRanges": {
+    "Light": [
+      0,
+      8
+    ]
+  }
+}

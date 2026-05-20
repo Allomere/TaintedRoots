@@ -1,0 +1,53 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Vine_Rug_Green.name"
+  },
+  "Parent": "Plant_Vine_Rug",
+  "BlockType": {
+    "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
+      "Soft": {
+        "DropList": "Plant_Moss_Block_Green",
+        "IsWeaponBreakable": true
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
+    "ParticleColor": "#75883c",
+    "BlockSoundSetId": "Plant",
+    "Tint": [
+      "#75883c"
+    ],
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Vine_Rug_Green.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Plants/Vine_Rug_Green2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Plants/Vine_Rug_Green3.png",
+        "Weight": 1
+      }
+    ],
+    "BlockParticleSetId": "Grass"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Vine_Rug_Green.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -2
+    ]
+  }
+}

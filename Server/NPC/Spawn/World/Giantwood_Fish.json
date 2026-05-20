@@ -1,0 +1,41 @@
+{
+  "Environments": [
+    "Env_Giantwood"
+  ],
+  "NPCs": [
+    {
+      "Weight": 12,
+      "Id": "Pike",
+      "Flock": "One_Or_Two",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Weight": 12,
+      "Id": "Piranha",
+      "Flock": "Group_Small",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Weight": 12,
+      "Id": "Pufferfish",
+      "Flock": "Group_Tiny",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Weight": 8,
+      "Id": "Lobster",
+      "Flock": "One_Or_Two",
+      "SpawnBlockSet": "Mud"
+    },
+    {
+      "Weight": 12,
+      "Id": "Catfish",
+      "Flock": "One_Or_Two",
+      "SpawnFluidTag": "Water"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

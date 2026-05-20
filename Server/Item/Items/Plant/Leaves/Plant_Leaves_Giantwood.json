@@ -1,0 +1,79 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Leaves_Giantwood.name"
+  },
+  "Categories": [
+    "Blocks.Plants"
+  ],
+  "Icon": "Icons/ItemsGenerated/Plant_Leaves_Giantwood.png",
+  "PlayerAnimationsId": "Item",
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Blocks/Foliage/Plants/Horizontal.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Plant_Leaves_Giantwood.png",
+        "Weight": 1
+      }
+    ],
+    "Opacity": "Cutout",
+    "Group": "Leaves",
+    "Effect": [
+      "Wind"
+    ],
+    "Flags": {},
+    "RandomRotation": "YawPitchRollStep1",
+    "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
+      "Soft": {
+        "DropList": "Tree_Leaves"
+      },
+      "Physics": {
+        "DropList": "Tree_Leaves_Physics"
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
+    "PlacementSettings": {
+      "AllowBreakReplace": true
+    },
+    "BlockParticleSetId": "Leaves",
+    "ParticleColor": "#7c8c3f",
+    "MaxSupportDistance": 4,
+    "Support": {
+      "BlockSides": [
+        {
+          "TagId": "Family=Leaves"
+        },
+        {
+          "TagId": "Type=Trunk"
+        },
+        {
+          "TagId": "Type=Branch"
+        },
+        {
+          "FaceType": "Branch"
+        }
+      ]
+    },
+    "BlockSoundSetId": "Leaves",
+    "PhysicalMaterialId": "Foliage",
+    "IgnoreSupportWhenPlaced": true
+  },
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Leaves"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Foliage"
+}

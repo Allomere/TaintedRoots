@@ -1,0 +1,118 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Crop_Mushroom_Rare_Red.name",
+    "Description": "server.items.Plant_Crop_Mushroom_Rare_Red.description"
+  },
+  "Categories": [
+    "Blocks.Plants"
+  ],
+  "Parent": "Template_Food",
+  "Consumable": true,
+  "BlockType": {
+    "InteractionHint": "server.interactionHints.pick",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Foliage/Plants/Health_T2_Blood_Cap/Blood_Cap.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Mushroom_Rare_Red.png",
+        "Weight": 1
+      }
+    ],
+    "Group": "Plant",
+    "HitboxType": "Plant_Full",
+    "Flags": {
+      "IsStackable": false
+    },
+    "RandomRotation": "YawStep1",
+    "Gathering": {
+      "Harvest": {
+        "DropList": "Plant_Crop_Mushroom_Rare_Red_Harvest"
+      },
+      "Soft": {
+        "DropList": "Plant_Crop_Mushroom_Rare_Red_Harvest"
+      }
+    },
+    "Support": {
+      "Down": [
+        {
+          "TagId": "Type=Soil"
+        },
+        {
+          "BlockTypeId": "Soil_Dirt_Crystal"
+        }
+      ]
+    },
+    "BlockParticleSetId": "Dust",
+    "ParticleColor": "#bf3920",
+    "BlockSoundSetId": "Mushroom",
+    "Light": {
+      "Color": "#c54"
+    },
+    "Material": "Empty",
+    "CubeShadingMode": "Standard"
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Mushrooms"
+    }
+  ],
+  "InteractionVars": {
+    "Consume_Charge": {
+      "Interactions": [
+        {
+          "Parent": "Consume_Charge_Food_T1_Inner",
+          "Effects": {
+            "Particles": [
+              {
+                "SystemId": "Food_Eat",
+                "Color": "#bf3920",
+                "Scale": 1,
+                "TargetNodeName": "Mouth",
+                "TargetEntityPart": "Entity"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Effect": {
+      "Interactions": [
+        {
+          "Type": "ApplyEffect",
+          "EffectId": "Food_Instant_Heal_T1"
+        },
+        {
+          "Type": "ApplyEffect",
+          "EffectId": "Shroom_Damage_Buff_T1"
+        }
+      ]
+    }
+  },
+  "MaxStack": 25,
+  "Scale": 1.0,
+  "IconProperties": {
+    "Scale": 0.66,
+    "Rotation": [
+      360,
+      272,
+      336
+    ],
+    "Translation": [
+      -3,
+      -16
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Crop_Mushroom_Rare_Red.png",
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Crop"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Foliage",
+  "DropOnDeath": true,
+  "Quality": "Rare"
+}

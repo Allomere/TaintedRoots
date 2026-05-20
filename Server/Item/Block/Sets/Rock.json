@@ -1,0 +1,8 @@
+{
+  "IncludeBlockTypes": [
+    "Rock*"
+  ],
+  "ExcludeBlockTypes": [
+    "*Stalactite*"
+  ]
+}

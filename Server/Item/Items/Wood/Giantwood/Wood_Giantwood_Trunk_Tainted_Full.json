@@ -1,0 +1,40 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Wood_Giantwood_Trunk_Full.name"
+  },
+  "Parent": "Wood_Giantwood_Trunk",
+  "Icon": "Icons/ItemsGenerated/Wood_Giantwood_Trunk_Tainted_Full.png",
+  "Categories": [
+    "Blocks.Wood"
+  ],
+  "SubCategory": "Trees",
+  "Set": "Wood_Giantwood",
+  "BlockType": {
+    "Textures": [
+      {
+        "Sides": "BlockTextures/Wood_Trunk_GiantWood_Tainted.png",
+        "UpDown": "BlockTextures/Wood_Trunk_GiantWood_Full_Tainted.png",
+        "Weight": 1
+      }
+    ],
+    "Gathering": {
+      "Breaking": {
+        "ItemId": "Wood_Giantwood_Trunk",
+        "GatherType": "Woods"
+      }
+    },
+    "ParticleColor": "#312538"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

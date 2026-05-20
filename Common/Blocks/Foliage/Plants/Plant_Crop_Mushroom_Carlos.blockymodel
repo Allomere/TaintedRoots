@@ -1,0 +1,738 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Cap",
+      "position": {"x": 0.29884, "y": 14.79165, "z": -0.48914},
+      "orientation": {"x": -0.04282, "y": -0.22436, "z": 0.01698, "w": 0.97342},
+      "shape": {
+        "type": "box",
+        "offset": {"x": 0.36594, "y": 12.9703, "z": 0.53015},
+        "stretch": {"x": 1.1, "y": 1.1, "z": 1.1},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 5, "y": 6, "z": 5}
+        },
+        "textureLayout": {
+          "back": {
+            "offset": {"x": 15, "y": 3},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "right": {
+            "offset": {"x": 15, "y": 3},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "front": {
+            "offset": {"x": 15, "y": 3},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "left": {
+            "offset": {"x": 15, "y": 3},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "top": {
+            "offset": {"x": 15, "y": 0},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "bottom": {
+            "offset": {"x": 5, "y": 22},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "Cap_Bot",
+          "position": {"x": 0.63393, "y": -12.56772, "z": -0.585},
+          "orientation": {"x": -0.72506, "y": 0.15349, "z": -0.66093, "w": -0.11789},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": -0.40895, "y": -15.85353, "z": -2.12059},
+            "stretch": {"x": -1.1, "y": 0.8, "z": 1.1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 11, "y": 14},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 2, "y": 22},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "3",
+              "name": "Cap_Top",
+              "position": {"x": -0.06205, "y": 3.35353, "z": 2.18159},
+              "orientation": {"x": -0.1791, "y": 0, "z": 0, "w": 0.98383},
+              "shape": {
+                "type": "none",
+                "offset": {"x": 0, "y": -4, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false
+                },
+                "textureLayout": {},
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "4",
+                  "name": "Cap_Top--C1",
+                  "position": {"x": 0, "y": 0, "z": 0},
+                  "orientation": {"x": -0.65935, "y": 0, "z": 0, "w": 0.75184},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": -0.49362, "y": 0.74924, "z": -4.20504},
+                    "stretch": {"x": -1.1, "y": 0.8, "z": 1.1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 13, "y": 10},
+                      "normal": "+Z",
+                      "isStaticBox": true
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 1, "y": 10},
+                        "mirror": {"x": false, "y": true},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Cap_Bot",
+          "position": {"x": -2.7892, "y": -12.32819, "z": -0.21827},
+          "orientation": {"x": -0.68049, "y": -0.073, "z": 0.72818, "w": -0.03683},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0.56433, "y": -16.05091, "z": -1.41758},
+            "stretch": {"x": 1.1, "y": 0.8, "z": 1.1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 11, "y": 14},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 2, "y": 22},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "6",
+              "name": "Cap_Top",
+              "position": {"x": -0.10333, "y": 3.55091, "z": 1.47858},
+              "orientation": {"x": -0.21644, "y": 0, "z": 0, "w": 0.9763},
+              "shape": {
+                "type": "none",
+                "offset": {"x": 0, "y": -4, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false
+                },
+                "textureLayout": {},
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "7",
+                  "name": "Cap_Top--C1",
+                  "position": {"x": 0, "y": 3, "z": 3.6},
+                  "orientation": {"x": -0.64279, "y": 0, "z": 0, "w": 0.76604},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": -0.303, "y": 3.56526, "z": -8.11145},
+                    "stretch": {"x": 1.1, "y": 0.8, "z": 1.1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 13, "y": 10},
+                      "normal": "+Z",
+                      "isStaticBox": true
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 1, "y": 10},
+                        "mirror": {"x": false, "y": true},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "name": "Cap_Bot",
+          "position": {"x": -0.05408, "y": -11.70732, "z": 1.69225},
+          "orientation": {"x": 0.01095, "y": -0.11968, "z": 0.99141, "w": 0.0516},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0.84906, "y": -15.62211, "z": -1.14371},
+            "stretch": {"x": 1.1, "y": 0.8, "z": 1.1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 11, "y": 14},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 2, "y": 22},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "9",
+              "name": "Cap_Top",
+              "position": {"x": -0.84906, "y": 4.12211, "z": 1.14371},
+              "orientation": {"x": -0.2095, "y": 0, "z": 0, "w": 0.97781},
+              "shape": {
+                "type": "none",
+                "offset": {"x": 0.61771, "y": -4, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false
+                },
+                "textureLayout": {},
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "10",
+                  "name": "Cap_Top--C1",
+                  "position": {"x": -0.02505, "y": -4.24744, "z": -0.84259},
+                  "orientation": {"x": -0.62592, "y": 0, "z": 0, "w": 0.77988},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": 0, "y": 0.075, "z": -1.05},
+                    "stretch": {"x": 1.1, "y": 0.8, "z": 1.1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 15, "y": 10},
+                      "normal": "+Z",
+                      "isStaticBox": true
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 0, "y": 10},
+                        "mirror": {"x": false, "y": true},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "name": "Cap_Bot",
+          "position": {"x": -0.12534, "y": -12.23359, "z": -2.58109},
+          "orientation": {"x": 0.99164, "y": -0.0166, "z": -0.02178, "w": 0.12607},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": -0.42302, "y": -16.34697, "z": -2.26795},
+            "stretch": {"x": -1.1, "y": 0.8, "z": 1.1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 11, "y": 14},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 2, "y": 22},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "12",
+              "name": "Cap_Top",
+              "position": {"x": -0.09098, "y": 3.84697, "z": 2.32895},
+              "orientation": {"x": -0.21644, "y": 0, "z": 0, "w": 0.9763},
+              "shape": {
+                "type": "none",
+                "offset": {"x": 0, "y": -4, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false
+                },
+                "textureLayout": {},
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "13",
+                  "name": "Cap_Top--C1",
+                  "position": {"x": 0.09897, "y": -3.7296, "z": -2.04527},
+                  "orientation": {"x": -0.62592, "y": 0, "z": 0, "w": 0.77988},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": 0, "y": 0, "z": -0.725},
+                    "stretch": {"x": -1.1, "y": 0.8, "z": 1.1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 15, "y": 10},
+                      "normal": "+Z",
+                      "isStaticBox": true
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 0, "y": 10},
+                        "mirror": {"x": false, "y": true},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "cap",
+      "position": {"x": 0, "y": 0, "z": 0},
+      "orientation": {"x": 0.00572, "y": 0.81856, "z": -0.0178, "w": 0.57411},
+      "shape": {
+        "type": "quad",
+        "offset": {"x": 4, "y": 13.5, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 19, "y": 26},
+          "normal": "+Z"
+        },
+        "textureLayout": {
+          "front": {
+            "offset": {"x": 8, "y": 30},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": true,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "15",
+          "name": "Node",
+          "position": {"x": -14.14618, "y": -5.48714, "z": -0.20642},
+          "orientation": {"x": -0.12052, "y": 0.75563, "z": 0.01224, "w": 0.6437},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": -0.5, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 6, "y": 16},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 26, "y": 0},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "standard"
+          },
+          "children": [
+            {
+              "id": "16",
+              "name": "Node--C1",
+              "position": {"x": 0.5, "y": 0, "z": 0},
+              "orientation": {"x": 0.10146, "y": -0.69979, "z": 0.0524, "w": 0.70516},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": -1.1, "y": 0, "z": -0.1},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 6, "y": 16},
+                  "normal": "+Z",
+                  "isStaticBox": true
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 26, "y": 0},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "standard"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "cap",
+      "position": {"x": 0, "y": 0, "z": 0},
+      "orientation": {"x": -0.00926, "y": 0.12973, "z": -0.01625, "w": 0.99137},
+      "shape": {
+        "type": "quad",
+        "offset": {"x": 0, "y": 13.5, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 27, "y": 26},
+          "normal": "+Z"
+        },
+        "textureLayout": {
+          "front": {
+            "offset": {"x": 0, "y": 30},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": true,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "18",
+          "name": "Node",
+          "position": {"x": 6.66863, "y": -2.51209, "z": -1.17544},
+          "orientation": {"x": 0.22913, "y": 0.70715, "z": 0.01689, "w": 0.6687},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 11, "y": 20},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 16, "y": 36},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Cap",
+      "position": {"x": -10.06953, "y": 12.32368, "z": 2.24063},
+      "orientation": {"x": 0.15851, "y": -0.64812, "z": 0.07042, "w": 0.74152},
+      "shape": {
+        "type": "none",
+        "offset": {"x": 0, "y": 5, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": false
+        },
+        "textureLayout": {},
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "20",
+          "name": "Cap--C1",
+          "position": {"x": 0, "y": 0, "z": 0},
+          "orientation": {"x": 0, "y": 0.03926, "z": 0, "w": 0.99923},
+          "shape": {
+            "type": "box",
+            "offset": {"x": 0.1, "y": -1, "z": 0.4},
+            "stretch": {"x": 1, "y": 0.7338, "z": 0.82055},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 4, "y": 6, "z": 5},
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "back": {
+                "offset": {"x": 15, "y": 2},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "right": {
+                "offset": {"x": 15, "y": 2},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "front": {
+                "offset": {"x": 16, "y": 2},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "left": {
+                "offset": {"x": 15, "y": 2},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "top": {
+                "offset": {"x": 16, "y": 0},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "bottom": {
+                "offset": {"x": 6, "y": 22},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "21",
+          "name": "Cap_Bot",
+          "position": {"x": 1.40636, "y": -5.72142, "z": -0.45788},
+          "orientation": {"x": -0.7284, "y": 0.13265, "z": -0.66543, "w": -0.09505},
+          "shape": {
+            "type": "none",
+            "offset": {"x": 0, "y": -7, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false
+            },
+            "textureLayout": {},
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "22",
+              "name": "Cap_Bot--C1",
+              "position": {"x": 0, "y": 0, "z": 0},
+              "orientation": {"x": -0.01745, "y": 0, "z": 0, "w": 0.99985},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": -0.7, "y": 1, "z": 0.1},
+                "stretch": {"x": -1, "y": 0.75582, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 9, "y": 13},
+                  "normal": "+Z",
+                  "isStaticBox": true
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 15, "y": 25},
+                    "mirror": {"x": false, "y": true},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "name": "Cap_Bot",
+          "position": {"x": -1.34064, "y": -5.21457, "z": 0.24244},
+          "orientation": {"x": -0.67954, "y": -0.0944, "z": 0.72532, "w": -0.05681},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 1.1, "y": -6, "z": 0},
+            "stretch": {"x": 1, "y": 0.75582, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 9, "y": 13},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 15, "y": 25},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "24",
+          "name": "Cap_Bot",
+          "position": {"x": -1.24544, "y": -4.64971, "z": 2.55656},
+          "orientation": {"x": 0.03168, "y": -0.03598, "z": 0.98946, "w": 0.13664},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0.3, "y": -5, "z": 0},
+            "stretch": {"x": 1, "y": 0.75582, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 9, "y": 13},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 15, "y": 25},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "25",
+          "name": "Cap_Bot",
+          "position": {"x": 0.26661, "y": -5.15002, "z": -1.49688},
+          "orientation": {"x": 0.99451, "y": -0.01714, "z": -0.02136, "w": 0.10096},
+          "shape": {
+            "type": "none",
+            "offset": {"x": 0, "y": -7, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false
+            },
+            "textureLayout": {},
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "26",
+              "name": "Cap_Bot--C1",
+              "position": {"x": 0, "y": 0, "z": 0},
+              "orientation": {"x": -0.04357, "y": -0.04793, "z": -0.00209, "w": 0.9979},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": -0.5, "y": 1, "z": 0.3},
+                "stretch": {"x": -1, "y": 0.75582, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 9, "y": 13},
+                  "normal": "+Z",
+                  "isStaticBox": true
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 15, "y": 24},
+                    "mirror": {"x": false, "y": true},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "format": "prop",
+  "lod": "auto"
+}

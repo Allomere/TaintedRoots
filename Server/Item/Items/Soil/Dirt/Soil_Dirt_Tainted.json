@@ -1,0 +1,41 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Soil_Dirt_Tainted.name"
+  },
+  "ItemLevel": 10,
+  "Parent": "Template_Soil",
+  "Icon": "Icons/ItemsGenerated/Soil_Dirt_Tainted.png",
+  "BlockType": {
+    "Textures": [
+      {
+        "All": "BlockTextures/Soil_Dirt_Tainted.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#452d1f",
+    "TransitionTexture": "BlockTextures/Transition_Soil_Dirt_Tainted.png"
+  },
+  "Tags": {
+    "Type": [
+      "Soil"
+    ],
+    "Family": [
+      "Dirt"
+    ],
+    "Spreadable": [
+      "Grass_Tainted"
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

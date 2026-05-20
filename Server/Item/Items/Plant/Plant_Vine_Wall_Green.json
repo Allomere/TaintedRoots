@@ -1,0 +1,44 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Vine_Wall_Green.name"
+  },
+  "Parent": "Plant_Vine_Wall_Dry",
+  "BlockType": {
+    "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
+      "Soft": {
+        "DropList": "Plant_Moss_Block_Green",
+        "IsWeaponBreakable": true
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
+    "ParticleColor": "#75883c",
+    "BlockSoundSetId": "Plant",
+    "Tint": [
+      "#75883c"
+    ],
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Vine_Green.png"
+      }
+    ],
+    "BlockParticleSetId": "Grass"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Vine_Wall_Green.png",
+  "IconProperties": {
+    "Scale": 0.755,
+    "Translation": [
+      10.3,
+      -21.5
+    ],
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Soil_Leaves_Tainted.name"
+  },
+  "ItemLevel": 7,
+  "Icon": "Icons/ItemsGenerated/Soil_Leaves_Tainted.png",
+  "Categories": [
+    "Blocks.Soils"
+  ],
+  "SubCategory": "GrassAndDirt",
+  "PlayerAnimationsId": "Block",
+  "Set": "Grass",
+  "Recipe": {
+    "TimeSeconds": 0,
+    "Input": [
+      {
+        "ResourceTypeId": "Soils",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Fibre",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Id": "Farmingbench",
+        "Categories": [
+          "Decorative"
+        ]
+      }
+    ],
+    "OutputQuantity": 1
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Opacity": "Cutout",
+    "Group": "LeavesGround",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Soils",
+        "ItemId": "Soil_Dirt_Tainted"
+      }
+    },
+    "BlockParticleSetId": "Grass_Earth_Tainted",
+    "Textures": [
+      {
+        "Down": "BlockTextures/Soil_Dirt_Tainted.png",
+        "Sides": "BlockTextures/Soil_Grass_Tainted_Side.png",
+        "Up": "BlockTextures/Soil_Leaves_Tainted_Top_GS.png",
+        "Weight": 1
+      }
+    ],
+    "BlockSoundSetId": "LeavesGround",
+    "TextureSideMask": "BlockTextures/Soil_Leaves_Tainted_Side_GS.png",
+    "TransitionTexture": "BlockTextures/Soil_Leaves_Tainted_Transition_GS.png",
+    "TransitionToGroups": [
+      "Stone",
+      "Dirt",
+      "Dirt_Dark",
+      "Sand",
+      "Sand_White",
+      "Gravel",
+      "Grass",
+      "GrassDeep",
+      "GrassDeepSunny",
+      "Mud"
+    ],
+    "TransitionToTag": "Fluid=Water",
+    "ParticleColor": "#a5652d"
+  },
+  "Tags": {
+    "Type": [
+      "Soil"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Soft",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

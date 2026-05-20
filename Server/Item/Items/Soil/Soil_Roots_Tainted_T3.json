@@ -1,0 +1,12 @@
+{
+  "Parent": "Soil_Roots_Tainted",
+  "BlockType": {
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Soils",
+        "ItemId": "Soil_Roots_Tainted"
+      }
+    }
+  },
+  "Quality": "Developer"
+}

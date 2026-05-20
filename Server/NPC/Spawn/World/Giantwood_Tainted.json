@@ -1,0 +1,28 @@
+{
+  "Environments": [
+    "Env_Giantwood"
+  ],
+  "NPCs": [
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Tainted",
+      "Id": "Rabbit_Tainted",
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Weight": 4,
+      "SpawnBlockSet": "Tainted",
+      "Id": "Boar_Tainted",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Weight": 1,
+      "SpawnBlockSet": "Tainted",
+      "Id": "Bear_Grizzly_Tainted"
+    }
+  ],
+  "DayTimeRange": [
+    0,
+    24
+  ]
+}

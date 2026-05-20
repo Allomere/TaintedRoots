@@ -1,0 +1,50 @@
+{
+  "Environments": [
+    "Env_Giantwood"
+  ],
+  "NPCs": [
+    {
+      "Weight": 6,
+      "SpawnBlockSet": "Rock_Shale",
+      "Id": "Gecko"
+    },
+    {
+      "Weight": 8,
+      "SpawnBlockSet": "Rock_Shale",
+      "Id": "Frog_Blue"
+    },
+    {
+      "Weight": 6,
+      "SpawnBlockSet": "Rock_Shale",
+      "Id": "Larva_Silk",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Weight": 8,
+      "SpawnBlockSet": "Rock_Shale",
+      "Id": "Snake_Cobra"
+    },
+    {
+      "Weight": 4,
+      "SpawnBlockSet": "Rock_Shale",
+      "Id": "Molerat"
+    },
+    {
+      "Weight": 6,
+      "SpawnBlockSet": "Rock_Shale",
+      "Id": "Spider_Cave"
+    },
+    {
+      "Weight": 16,
+      "SpawnBlockSet": "Rock_Shale",
+      "Id": "Rat",
+      "Flock": "One_Or_Two"
+    }
+  ],
+  "LightRanges": {
+    "Light": [
+      0,
+      0
+    ]
+  }
+}

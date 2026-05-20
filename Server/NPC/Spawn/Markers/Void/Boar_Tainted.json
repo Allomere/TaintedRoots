@@ -1,0 +1,23 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "NPCs": [
+    {
+      "Name": "Boar_Tainted",
+      "Weight": 100,
+      "SpawnAfterGameTime": "P1D",
+      "Flock": {
+        "Type": "Weighted",
+        "MinSize": 1,
+        "MaxSize": 2,
+        "SizeWeights": [
+          33.3,
+          33.3,
+          33.3
+        ]
+      }
+    }
+  ],
+  "ExclusionRadius": 10,
+  "MaxDropHeight": 4,
+  "DeactivationDistance": 150
+}

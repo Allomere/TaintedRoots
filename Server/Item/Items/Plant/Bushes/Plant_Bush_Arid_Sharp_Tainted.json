@@ -1,0 +1,30 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Bush_Arid_Sharp_Tainted.name"
+  },
+  "Parent": "Plant_Bush",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Plants/Fern_Big.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Bush_Arid_Sharp_Tainted.png",
+        "Weight": 1
+      }
+    ],
+    "BlockParticleSetId": "Grass",
+    "ParticleColor": "#31533d"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Bush_Arid_Sharp_Tainted.png",
+  "IconProperties": {
+    "Scale": 0.52,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      3.7,
+      -18.5
+    ]
+  }
+}

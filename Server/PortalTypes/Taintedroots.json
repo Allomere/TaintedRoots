@@ -1,0 +1,12 @@
+{
+  "InstanceId": "Taintedroots",
+  "Description": {
+    "DisplayName": "server.portals.Taintedroots",
+    "FlavorText": "server.portals.Taintedroots.description",
+    "ThemeColor": "#23970cec",
+    "SplashImage": "DefaultArtwork.png",
+    "Tips": [
+      "server.portals.Taintedroots.tip1"
+    ]
+  }
+}

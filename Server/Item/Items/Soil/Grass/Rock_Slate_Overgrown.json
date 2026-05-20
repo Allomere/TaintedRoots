@@ -1,0 +1,140 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Rock_Slate_Overgrown.name"
+  },
+  "ItemLevel": 3,
+  "Icon": "Icons/ItemsGenerated/Rock_Slate_Overgrown.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "Rock_Stone",
+  "Recipe": {
+    "TimeSeconds": 0,
+    "Input": [
+      {
+        "ResourceTypeId": "Rock_Slate",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Fibre",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Id": "Farmingbench",
+        "Categories": [
+          "Decorative"
+        ]
+      }
+    ],
+    "OutputQuantity": 1
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Group": "Grass",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks",
+        "ItemId": "Rock_Slate_Cobble"
+      }
+    },
+    "BlockParticleSetId": "Grass_Rock_Slate",
+    "Textures": [
+      {
+        "Down": "BlockTextures/Rock_Slate.png",
+        "Sides": "BlockTextures/Rock_Slate_Overgrown_Side.png",
+        "Up": "BlockTextures/Soil_Grass_Tainted_GS.png",
+        "Weight": 1
+      },
+      {
+        "Down": "BlockTextures/Rock_Slate.png",
+        "Sides": "BlockTextures/Rock_Slate_Overgrown_Side.png",
+        "Up": "BlockTextures/Soil_Grass_GS_02.png",
+        "Weight": 4
+      }
+    ],
+    "BlockSoundSetId": "Stone",
+    "BiomeTintUp": 80,
+    "TextureSideMask": "BlockTextures/Soil_Grass_Tainted_Side_Mask_GS.png",
+    "TintUp": [
+      "#435640"
+    ],
+    "TransitionTexture": "BlockTextures/Transition_Soil_Grass_GS.png",
+    "TransitionToGroups": [
+      "Stone",
+      "Dirt",
+      "Dirt_Dark",
+      "Sand",
+      "Sand_White",
+      "Gravel",
+      "Wood",
+      "Cobble"
+    ],
+    "ParticleColor": "#eae8e8",
+    "TransitionToTag": "Fluid=Water",
+    "RandomTickProcedure": {
+      "Type": "SpreadTo",
+      "AllowedTag": "Spreadable=Grass",
+      "SpreadDirections": [
+        {
+          "X": -1,
+          "Z": 0
+        },
+        {
+          "X": 1,
+          "Z": 0
+        },
+        {
+          "X": 0,
+          "Z": -1
+        },
+        {
+          "X": 0,
+          "Z": 1
+        },
+        {
+          "X": -1,
+          "Z": -1
+        },
+        {
+          "X": 1,
+          "Z": -1
+        },
+        {
+          "X": -1,
+          "Z": 1
+        },
+        {
+          "X": 1,
+          "Z": 1
+        }
+      ],
+      "MaxY": 1,
+      "MinY": -1,
+      "RevertBlock": "Rock_Slate"
+    }
+  },
+  "Tags": {
+    "Type": [
+      "Soil"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

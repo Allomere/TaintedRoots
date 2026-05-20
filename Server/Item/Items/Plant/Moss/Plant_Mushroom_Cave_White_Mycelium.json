@@ -1,0 +1,39 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Mushroom_Cave_White_Mycelium.name"
+  },
+  "Parent": "Plant_Moss_Cave_Green",
+  "BlockType": {
+    "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
+      "Soft": {
+        "DropList": "Plant_Moss_Block_Green",
+        "IsWeaponBreakable": true
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
+    "ParticleColor": "#e8e0c0",
+    "BlockSoundSetId": "Plant",
+    "Tint": [
+      "#e8e0c0"
+    ],
+    "BlockParticleSetId": "Dust"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Mushroom_Cave_White_Mycelium.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Translation": [
+      1.79,
+      -24.61
+    ],
+    "Rotation": [
+      9.185,
+      6.92,
+      0
+    ]
+  }
+}

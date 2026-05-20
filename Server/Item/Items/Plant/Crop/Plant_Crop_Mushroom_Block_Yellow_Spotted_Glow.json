@@ -1,0 +1,67 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Crop_Mushroom_Block_Yellow_Spotted_Glow.name"
+  },
+  "ItemLevel": 10,
+  "Icon": "Icons/ItemsGenerated/Plant_Crop_Mushroom_Block_Yellow_Spotted_Glow.png",
+  "Categories": [
+    "Blocks.Plants"
+  ],
+  "PlayerAnimationsId": "Block",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Opacity": "Transparent",
+    "Group": "Plant",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "BlockParticleSetId": "Dust",
+    "Textures": [
+      {
+        "All": "BlockTextures/Plant_Crop_Mushroom_Block_Yellow_Spotted_Glow.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#ff8600",
+    "BlockSoundSetId": "Mushroom",
+    "PhysicalMaterialId": "Foliage",
+    "Light": {
+      "Color": "#c94",
+      "Radius": 0
+    },
+    "CustomModel": "Blocks/Structures/Base_Shapes/Cube_Overlay.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Structures/Base_Shapes/Lava_Cracks.png"
+      }
+    ],
+    "CubeShadingMode": "Standard"
+  },
+  "Set": "Rock_Volcanic",
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Crop"
+    ]
+  },
+  "$Comment": " ",
+  "Parent": "Plant_Crop_Mushroom_Block_Yellow_Spotted",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}
